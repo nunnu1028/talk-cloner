@@ -1,0 +1,20 @@
+{
+	"name": "talk-cloner",
+	"version": "1.0.0",
+	"description": "Clone the KakaoTalk Application to different package name.",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"private": true,
+	"keywords": [
+		"katalk"
+	],
+	"author": "nunnu1028",
+	"license": "GPL-3.0",
+	"devDependencies": {
+		"@types/node": "^17.0.25",
+		"ts-node": "^10.7.0"
+	}
+}
